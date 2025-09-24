@@ -1,0 +1,181 @@
+{
+  "resume": {
+    "personal_information": {
+      "name": "SUJIT BARNWAL",
+      "email": "sujitbarnwal23@gmail.com",
+      "mobile": "8693008743",
+      "linkedin": "linkedin.com/in/sujitbarnwal23/" 
+    },
+    "professional_summary": "Results-driven Senior Full-Stack & AI Engineer with 4+ years of experience building scalable backend systems and production-grade Al solutions[cite: 4]. Skilled in Python, FastAPI, multi-agent LLM architectures, and RAG/GraphRAG pipelines, LLM Factory, with expertise in prompt engineering and open-source model deployment[cite: 5]. Proven track record of reducing manual processes by 65%, cutting fraudulent claims by 13%, and boosting customer satisfaction scores[cite: 6]. Strong foundation in databases (PostgreSQL, MongoDB, Redis, PG-Vector) and cloud platforms (AWS, GCP), with hands-on experience in observability and monitoring (OpenLit, Prometheus, Grafana)[cite: 7]. Known for bridging backend engineering with advanced Al to deliver measurable business impact at scale.",
+    "work_experience": [
+      {
+        "title": "Product Engineer II",
+        "company": "Servify",
+        "location": "Mumbai, Maharashtra, India",
+        "dates": "July 2024 - Present",
+        "responsibilities": [
+          "Built a production-grade AI HR screening tool using RAG/GraphRAG, Embeddings and Sentence Transformers and prompt optimization, reducing manual screening time by 60%.",
+          "Developed document intelligence Al assistants with optimised context memory (Mem0), RAG, Document Parsing(PyPDF, Tesseract, Docking), PG-Vector, Redis, and S3 storage, delivering 95%+ accurate query responses across large legal/HR docs.",
+          "Designed a multi-agent, multimodal diagnostic assistant with FastAPI + agent orchestration, applied prompt-tuning for domain-specific agents, cutting fraudulent claims by 13% and boosting CSAT from 3.8 to 4.2.",
+          "Automated claim filing with a custom multi-agent orchestration framework, fine-tuning open-source LLMs, reducing manual adjudication by 65% and improving customer turnaround times.",
+          "Established observability stack (OpenLit + Prometheus + Grafana) for Al pipelines, ensuring reliability, monitoring, and reproducibility."
+        ]
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Unico Connect",
+        "location": "Mumbai, Maharashtra, India",
+        "dates": "Aug 2023 - July 2024",
+        "responsibilities": [
+          "Led backend development & deployments, improving delivery speed by 37%.",
+          "Optimized databases & architecture, boosting API performance by 66%.",
+          "Integrated third-party platforms (Salesforce, Zendesk) and built automation tests (PyTest).",
+          "Partnered with clients to scope, design, and deliver projects, ensuring alignment with business needs."
+        ]
+      },
+      {
+        "title": "Solution Analyst" ,
+        "company": "Sankey Solutions",
+        "location": "Thane, Maharashtra, India",
+        "dates": "July 2021 - July 2023",
+        "responsibilities": [
+          "Spearheaded & Collaborated and coached 3 projects of different TechStack(Node.js, Django).",
+          "Delivered projects across Node.js, ASP.NET, Django, ensuring 100% on-time delivery.",
+          "Improved system performance metrics by 50% through architectural optimization while mentoring teams to follow SDLC best practices."
+        ]
+      }
+    ],
+    "technical_skills": {
+      "programming_languages": ["Python (advanced)", "JavaScript (proficient)"],
+      "web_development": ["FastAPI", "Flask", "Django", "Node.js", "Express.js", "ReactJS", "HTML5", "CSS3", "Tailwind"],
+      "ai_llm_systems": ["RAG & GraphRAG pipelines", "LLM Factory", "Multi-Agent Architectures", "Prompt Engineering", "Open-Source Model Deployment (Llama, Mistral, Ollama, vLLM)", "Embedding", "Hugging Face Transformers", "LangChain", "LlamaIndex", "Context Optimization", "Langchain"],
+      "databases_storage": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "PG-Vector", "Vector DBs", "S3/CDN storage"],
+      "devops_mlops": ["AWS", "GCP", "Docker", "CI/CD", "Observability (OpenLit, Prometheus, Grafana)", "Model Monitoring & Optimization"],
+      "other_tools_frameworks": ["RESTful APIs", "Streamlit", "Tesseract OCR", "PyPDF2", "Docling", "Figma"],
+      "version_control": ["Github", "Gitlab"],
+      "no_code_tools": ["XANO", "FlutterFlow"]
+    },
+    "professional_project_experience": [
+      {
+        "role": "Senior Python & AI Engineer",
+        "company": "Servify",
+        "projects": [
+          {
+            "title": "AI Resume Analyzer",
+            "description": "Built an AI-powered HR screening platform using RAG/GraphRAG, embeddings, and prompt engineering, enabling interactive candidate ranking, Q&A, and JD-based matching; reduced manual screening time by 60%."
+          },
+          {
+            "title": "Document Intelligence Assistants",
+            "description": "Developed chat-based assistant with context memory (Mem0), vector retrieval, and optimized storage, enabling accurate Q&A on long documents with 95%+ response accuracy."
+          },
+          {
+            "title": "AI Device Diagnostics - Multi-Agent Assistant",
+            "description": "Designed a custom multi-agent, multimodal diagnostic system to detect functional and physical device issues; reduced fraudulent claims by 13% and improved CSAT from 3.8 to 4.2."
+          },
+          {
+            "title": "AI Claims Assistant",
+            "description": "Architected automated claim filing with a multi-agent orchestration framework, reducing manual adjudication by 65% and improving turnaround times; integrated monitoring with OpenLit, Prometheus and Grafana for reliability."
+          }
+        ],
+        "technologies_used": ["Python", "FastAPI", "Streamlit", "AI/LLM: LangChain", "LLM Factory", "Embedding", "Hugging Face Transformers", "OpenAI APIs", "RAG/GraphRAG", "Prompt Engineering", "vLLM", "Databases: PostgreSQL (PG-Vector)", "MongoDB", "Tools: Docling", "Tesseract", "PyPDF2", "Prometheus", "Grafana", "OpenLit"]
+      },
+      {
+        "role": "Software Engineer",
+        "company": "Unico Connect",
+        "projects": [
+          {
+            "title": "Multi-Tenant SaaS Platform with Third-Party Integrations",
+            "description": "Designed and delivered a scalable SaaS platform with authentication, RBAC, and data protection policies, daily two-way data synchronization; integrated Salesforce, Zendesk, JIRA, Apollo to streamline client workflows."
+          },
+          {
+            "title": "B2B E-Commerce Platform",
+            "description": "Led development of a full-featured B2B platform with user onboarding, order/return workflows, and an Admin Web App for client management."
+          },
+          {
+            "title": "API Development & Optimization",
+            "description": "Built RESTful APIs and improved architecture for multiple client projects, achieving a 66% boost in response times with Redis caching."
+          },
+          {
+            "title": "Lease Property Dealer",
+            "description": "Built APIs for multi-language PDF generation from JSON data, ensuring accurate PDF outputs aligned with client Figma designs."
+          },
+          {
+            "title": "Automation Testing Suite",
+            "description": "Engineered automated testing for payment modules with Python, Selenium, and PyTest, significantly reducing regression testing efforts, reducing release bugs by 30-40%."
+          }
+        ],
+        "technologies_used": ["Node.js", "Express", "MySQL", "MongoDB", "Redis", "Zendesk", "JIRA Tool", "React.js", "Docker", "Stripe", "Python", "Pytest", "Selenium", "PostgreSQL", "AWS (EC2, SQS, S3, Lambda)", "Firebase"]
+      },
+      {
+        "role": "Solution Analyst",
+        "company": "Sankey Solutions",
+        "projects": [
+          {
+            "title": "Reimbursement Platform",
+            "description": "Architected an advanced reimbursement system with currency conversion and timezone management; implemented triggers and conditional rules to streamline approval workflows."
+          },
+          {
+            "title": "HRMS Platform",
+            "description": "Built a comprehensive HRMS with CRUD operations, HR dashboards, RBAC, and document management; delivered full end-to-end development under tight timelines."
+          },
+          {
+            "title": "FSE (Field Service Engineer) SAAS Platform",
+            "description": "Spearheaded development of a low-code/no-code platform using the MERN stack; designed REST APIs, optimized processes, and ensured data validation for field service operations."
+          }
+        ],
+        "technologies_used": ["Node.js", "React.js", "Express.js", "MongoDB", "SharePoint", "Azure Storage", "MERN Stack", "RESTful APIs", "JSON scripting"]
+      }
+    ],
+    "personal_projects": [
+      {
+        "title": "Final Year Project",
+        "description": "\"Multi-Biometric Authentication System\" with the help of Machine Learning."
+      },
+      {
+        "title": "Travel Guide Website (Freelance)",
+        "description": "Developed a dynamic travel website using Django and PostgreSQL, deployed on Netlify with Amazon S3 for storage."
+      },
+      {
+        "title": "Websites and ChatBot Projects (Freelance)",
+        "description": "Websites using React.js & chatBot Projects via freelancing (Fiverr, Upwork) (FY20-FY21)."
+      },
+      {
+        "title": "Python Project",
+        "description": "Sorting Algorithm Visualisation using Flask and pygame."
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Joy of Computing Python",
+        "issuer": "NPTEL (IIT Ropar)",
+        "award": "Elite+Silver Certificate"
+      },
+      {
+        "name": "Introduction to Node.js & Express",
+        "issuer": "Udemy"
+      },
+      {
+        "name": "SQL Fundamentals",
+        "issuer": "SoloLearn"
+      },
+      {
+        "name": "Machine Learning Workshop (2 days)",
+        "issuer": "IIT Bombay"
+      }
+    ],
+    "achievements": [
+      "Conducted 150+ technical interviews",
+      "Top 10 team, Servify AI Hackathon",
+      "Awarded Bar Raiser & Shining Star at Sankey Solutions",
+      "3 Star Problem Solving Badge at hackerRank",
+      "Finalist, Hackathon - A.P. Shah College of Engineering",
+      "Delivered Full Stack Web Development workshop at SIGCE"
+    ],
+    "education": {
+      "degree": "Bachelor of Engineering (B.E) in Computer Engineering",
+      "university": "Mumbai University",
+      "graduation_year": 2021,
+      "cgpa": "7.08 (64.40%)"
+    }
+  }
+}
